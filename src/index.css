@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base scaling */
+html {
+  font-size: 17px;   /* 🔥 was 16 → slightly bigger */
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply antialiased bg-white text-gray-900;
+}
+
+/* Fix section spacing under navbar */
+section {
+  scroll-margin-top: 120px;
+}
+
