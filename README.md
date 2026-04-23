@@ -6,7 +6,7 @@ This is my personal portfolio website built to showcase my skills, projects, and
 
 ## 🚀 Live Demo
 👉 [View Portfolio](#)  
-(*Add your deployed link here*)
+
 
 ---
 
@@ -28,19 +28,6 @@ This is my personal portfolio website built to showcase my skills, projects, and
 - **Animations:** Framer Motion
 - **Icons:** React Icons
 
----
-
-## 📂 Folder Structure
-portfolio/
-├── public/
-├── src/
-│ ├── components/
-│ ├── assets/
-│ ├── pages/
-│ ├── App.jsx
-│ └── main.jsx
-├── package.json
-└── README.md
 
 ---
 
