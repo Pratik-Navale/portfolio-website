@@ -9,7 +9,7 @@ const educationData = [
       "Specializing in Full Stack Development with hands-on experience in MERN stack, scalable backend systems, and modern data-driven applications.",
   },
   {
-    degree: "Bachelor of Technology (Computer Engineering)",
+    degree: "Bachelor of Technology in Computer Engineering",
     college: "Pillai College of Engineering, New Panvel",
     year: "2021 – 2025 • CGPA : 9.01",
     details:
